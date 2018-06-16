@@ -10,5 +10,8 @@
     "topografie"
   ],
   "author": "Fleur Kelpin",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "leaflet": "^1.3.1"
+  }
 }
