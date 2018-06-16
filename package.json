@@ -1,0 +1,14 @@
+{
+  "name": "topo",
+  "version": "1.0.0",
+  "description": "Topografie voor Thomas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "topografie"
+  ],
+  "author": "Fleur Kelpin",
+  "license": "MIT"
+}
